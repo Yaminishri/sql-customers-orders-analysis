@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,55000.00
+2,Mobile,Electronics,25000.00
+3,Headphones,Electronics,2000.00
+4,Shoes,Fashion,3000.00
+5,T-Shirt,Fashion,800.00
+6,Watch,Accessories,5000.00
+7,Backpack,Accessories,1500.00
+8,Tablet,Electronics,20000.00
+9,Camera,Electronics,45000.00
+10,Keyboard,Electronics,1200.00
